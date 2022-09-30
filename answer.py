@@ -16,7 +16,7 @@ def add_binary(a, b):
                 Output: result = "100"
     Example 2:
                 Input: a = "1010", b = "1011"
-                Output: result = "11101"
+                Output: result = "10101"
     """
 
     return result
